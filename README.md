@@ -1,2 +1,2 @@
 # Scratch-hack
-un super hack d'hameçonnage pour Scratch !
+Il s'aggit du meilleur site de fishing pour Scratch.
